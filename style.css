@@ -19,13 +19,16 @@ p {
     line-height: 1.7;
     margin: 4pt;
 }
+h1 {
+    font-size: 30pt;
+}
 h2 {
     font-size: 25pt;
-    color: #ccc;
+    margin:15pt;
 }
 h3 {
     font-size: 20pt;
-    color: #ccc;
+    margin:10pt;
 }
 .extMediaColumn {
     display: flex;
